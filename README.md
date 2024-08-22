@@ -7,8 +7,13 @@ Entregáveis:
 
 Importante:
 ●	Justificar a abordagem escolhida para a modelagem;
+R: Escolhi a técnica de arvores sequenciais através do algorítmimo XGBoost, pois possui um ótimo desempenho e resultados muito precisos.
 ●	Justificar a escolha da(s) métrica(s) de avaliação do modelo;
+R: Utilizei as métricas RMSE e MAPE e MAE pois acredito que elas passam informações boas sobre a performance das predições. 
+Conseguimos verificar se estamos prevendo valores muito discrepantes através da RMSE, a MAPE nos dá uma visão mais de negócio por nos passar os erros em percentual
+e a MAE nos dá uma visão da dimensão dos nossos erros.
 ●	Separar os entregáveis 1 e 2 em dois Jupyter Notebooks;
 ●	Utilize os notebooks para responder questionamentos e discutir sobre resultados;
 ●	Subir os entregáveis no GitHub e enviar o link
+
 
