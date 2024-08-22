@@ -1,4 +1,4 @@
-# desafio_cadastra
+# Desafio_cadastra
 O objetivo desse desafio é desenvolver um modelo para previsão de vendas (sell-out) para integrar o processo de planejamento de demanda do grupo. Este processo tem como objetivo orientar o plano de produção da indústria. Em outras palavras, a partir dessa previsão de vendas a Indústria irá estabelecer quais produtos e quando fabricá-los.
 
 Entregáveis:
